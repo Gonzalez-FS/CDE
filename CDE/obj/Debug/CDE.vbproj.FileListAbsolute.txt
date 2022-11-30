@@ -1,0 +1,16 @@
+C:\Users\virgo\Downloads\Desktop\CDE\bin\Debug\CYD.exe.config
+C:\Users\virgo\Downloads\Desktop\CDE\bin\Debug\CYD.exe
+C:\Users\virgo\Downloads\Desktop\CDE\bin\Debug\CYD.pdb
+C:\Users\virgo\Downloads\Desktop\CDE\bin\Debug\CYD.xml
+C:\Users\virgo\Downloads\Desktop\CDE\obj\Debug\CDE.vbprojAssemblyReference.cache
+C:\Users\virgo\Downloads\Desktop\CDE\obj\Debug\CYD.Form1.resources
+C:\Users\virgo\Downloads\Desktop\CDE\obj\Debug\CYD.Form_admin.resources
+C:\Users\virgo\Downloads\Desktop\CDE\obj\Debug\CYD.Form_cuestionario.resources
+C:\Users\virgo\Downloads\Desktop\CDE\obj\Debug\CYD.Form_top.resources
+C:\Users\virgo\Downloads\Desktop\CDE\obj\Debug\CYD.Form_Ingreso.resources
+C:\Users\virgo\Downloads\Desktop\CDE\obj\Debug\CYD.Resources.resources
+C:\Users\virgo\Downloads\Desktop\CDE\obj\Debug\CDE.vbproj.GenerateResource.cache
+C:\Users\virgo\Downloads\Desktop\CDE\obj\Debug\CDE.vbproj.CoreCompileInputs.cache
+C:\Users\virgo\Downloads\Desktop\CDE\obj\Debug\CYD.exe
+C:\Users\virgo\Downloads\Desktop\CDE\obj\Debug\CYD.xml
+C:\Users\virgo\Downloads\Desktop\CDE\obj\Debug\CYD.pdb
