@@ -1,0 +1,4 @@
+1) Crear la base de datos cyd en SQL SERVER y usarla.
+2) Ejecutar CrearTablas y los SP en SQL SERVER.
+3) Agregar una variable de nombre conexion y tipo cadena de conexión a la parte de MyProject, en la sección de configuración. Verificar que 
+la conexión tenga el nombre del servidor correcto, el cual será el mismo que estemos usando en SQL SERVER. Usar autenticación de Windows y poner el nombre de BDD cyd.
